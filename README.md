@@ -2,6 +2,17 @@
 
 A Streamlit application that uses AI to gather product requirements through interactive chat and automatically generates complete project structures with code files.
 
+## Screenshots
+
+### Chat Interface
+![Chat Example](assets/Chat_Example.png)
+
+### Generated Folder Structure
+![Folder Structure Example](assets/Folder_Structure_Example.png)
+
+### Product Requirements Document
+![PRD Extraction](assets/PRD_Extraction.png)
+
 ## Features
 
 - **Interactive Chat Interface**: Engage with an AI assistant to define your project requirements

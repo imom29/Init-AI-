@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 st.markdown("## Upload your ideas, download your solution.")
-st.markdown("##### – seamless project management made easy!")
+st.markdown("##### Seamless project management made easy!")
 
 # Upload PDF File
 uploaded_file = st.file_uploader("Choose a PDF file", type="pdf")
